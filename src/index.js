@@ -1,2 +1,2 @@
-console.log('index.js');
-console.log('vr12');
+console.log('index.js from second');
+console.log('vr12 from second');
