@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('vr2');
+console.log('vr1');
